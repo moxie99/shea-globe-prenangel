@@ -64,7 +64,7 @@ import wineBulk4 from "./sheaglobalImages/wine4.jpg";
 import wineSingle1 from "./sheaglobalImages/wine5.jpg";
 import wineSingle2 from "./sheaglobalImages/wine6.jpg";
 
-export default
+export const items = 
   [
     {
       sys: {
