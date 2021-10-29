@@ -1,0 +1,14 @@
+import { FaCar, FaFileAl, FaMoneyBillAlt, FaMoneyCheckAlt,  FaCocktail} from "react-icons/fa";
+
+FaFacebookF
+FaInstagram
+FaLinkedinIn
+FaTwitter
+FaCalculator
+FaCaretSquareRight
+FaChevronCircleRight
+
+FaEnvelope
+FaFolderOpen
+FaGlassMartiniAlt
+FaMobileAlt
